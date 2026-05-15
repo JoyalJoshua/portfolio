@@ -7,7 +7,7 @@ export const DATA = {
   phone: "+91 8248782341",
   linkedin: "https://www.linkedin.com/in/joyal-joshua-1056aa37a",
   github: "https://github.com/JoyalJoshua",
-  photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800", // Placeholder for profile photo
+  photo: "/profile.jpg", // Profile photo updated with user upload
   about: {
     bio: "I am a passionate AI/ML Engineering student with a deep interest in building innovative digital solutions. My journey is driven by a curiosity to understand how technology can solve complex problems and improve human experiences.",
     passion: "I thrive at the intersection of data science and user-centric design, believing that powerful technology should be both functional and beautiful.",
